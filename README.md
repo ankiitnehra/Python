@@ -1,2 +1,2 @@
-# Tableau
-Hello Everyone, Here I upload my Tableau projects. Suggestions are welcome. :)
+# Python Scripts
+Hello Everyone, Here I upload my Python Scripts. Suggestions are welcome. :)
